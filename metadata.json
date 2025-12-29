@@ -1,0 +1,7 @@
+{
+  "name": "uppbot",
+  "description": "An elite designer evaluation platform specializing in skill-based matching and automated assessments.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
